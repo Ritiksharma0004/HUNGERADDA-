@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+
+
+.our-team {
+    position: relative;
+    top: 20vh;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 100%;
+    height: 50vh;
+}
+
+.our-team h1 {
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    top: 2vh;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.FirstContainer {
+    display: flex;
+    padding: 1.8rem;
+}
+
+.FirstContainer img {
+    border-style: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.FirstContainer img:hover {
+    cursor: pointer;
+    transition: all 1s;
+    transform: scale(2);
+}
+
+/* .FirstContainer p{
+   
+    text-align: center;
+    
+} */
+.main-c1 {
+    margin-top: 5vh;
+    margin-left: 2rem;
+}
+
+
+.SecondContainer {
+    padding: 1.8rem;
+    display: flex;
+    margin-right: 2rem;
+}
+
+.SecondContainer img {
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-style: none;
+
+
+
+}
+
+.SecondContainer img:hover {
+    cursor: pointer;
+    transition: all 1s;
+    transform: scale(2);
+}
+
+.main-c2 {
+    margin-top: 5vh;
+    margin-left: 2rem;
+}
+
+.main2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.main2-1container {
+    padding: 1.8rem;
+    display: flex;
+}
+
+.main2-1container img {
+    border-style: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.main2-1container img:hover {
+    cursor: pointer;
+    transition: all 1s;
+    transform: scale(2);
+}
+
+.main2-c1 {
+    margin-top: 5vh;
+    margin-left: 2rem;
+}
+
+.main2-2container {
+    display: flex;
+    padding: 1.8rem;
+}
+
+.main2-2container img {
+    border-style: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.main2-2container img:hover {
+    cursor: pointer;
+    transition: all 1s;
+    transform: scale(2);
+}
+
+.main2-c2 {
+    margin-top: 5vh;
+    margin-left: 2rem;
+
+        
+        width: 100%;
+        height: 55%;
+    }
+
+    .our-team {
+        width: 100%;
+        height: 55%;
+
+    }
+
+    .our-team h1 {
+        font-size: 50px;
+        text-align: center;
+        text-shadow: 1rem;
+    }
+
+    .main {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+
+    .FirstContainer {
+        display: flex;
+        padding: 1.8rem;
+    }
+
+    .FirstContainer img {
+        border-style: none;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+
+    .FirstContainer img:hover {
+        cursor: pointer;
+        transition: all 1s;
+        transform: scale(2);
+    }
+
+    /* .FirstContainer p{
+   
+    text-align: center;
+    
+} */
+    .main-c1 {
+        margin-top: 5vh;
+        margin-left: 2rem;
+    }
+
+
+    .SecondContainer {
+        padding: 1.8rem;
+        display: flex;
+        margin-right: 2rem;
+    }
+
+    .SecondContainer img {
+
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border-style: none;
+
+
+
+    }
+
+    .SecondContainer img:hover {
+        cursor: pointer;
+        transition: all 1s;
+        transform: scale(2);
+    }
+
+    .main-c2 {
+        margin-top: 5vh;
+        margin-left: 2rem;
+    }
+
+    .main2 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+
+    .main2-1container {
+        padding: 1.8rem;
+        display: flex;
+    }
+
+    .main2-1container img {
+        border-style: none;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+
+    }
+
+    .main2-1container img:hover {
+        cursor: pointer;
+        transition: all 1s;
+        transform: scale(2);
+    }
+
+   #profession {
+    position: relative;
+    margin-top: 2vh;
+   }
