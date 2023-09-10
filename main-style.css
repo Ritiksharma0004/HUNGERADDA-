@@ -117,7 +117,7 @@ a {
     margin-bottom: 10vh;
 }
 
-.container .para input {
+.container .para #text {
     height: 45px;
     width: 17vw;
     padding: 14px;
