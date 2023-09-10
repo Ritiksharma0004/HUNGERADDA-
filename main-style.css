@@ -118,7 +118,7 @@ a {
 }
 
 .container .para select {
-    height: 45px;
+    height: 43px;
     width: 17vw;
     padding: 14px;
     border: none;
@@ -137,7 +137,7 @@ a {
 .btn {
     position: relative;
     left: 16.9vw;
-    top: -6vh;
+    top: -5.9vh;
     background-color: rgb(129, 208, 159);
     color: black;
     padding: 11px;
