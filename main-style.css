@@ -117,7 +117,7 @@ a {
     margin-bottom: 10vh;
 }
 
-.container .para #text {
+.container .para select {
     height: 45px;
     width: 17vw;
     padding: 14px;
