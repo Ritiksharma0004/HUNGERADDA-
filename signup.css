@@ -26,12 +26,15 @@ body{
    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJ37CkMf-DpSl606I5JlyRclYq2opFDTt6g&usqp=CAU); */
     display: flex;
     flex-direction: column;
-    left: 7rem;
+    justify-content: center;
+    align-items: center;
+    left: 40%;
     top: 8rem;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.699);
+    background-color: rgba(144, 109, 53, 0.584);
     border-radius: 13px;
     box-shadow: rgba(13, 2, 2, 0.1) 0px 4px 12px;
+    height: 50vh;
 }
 /* .img{
     background-image: url(https://c0.wallpaperflare.com/preview/452/100/984/restaurant-bar-coffee-shop.jpg);
@@ -44,11 +47,12 @@ body{
 
 
 h2{
-    color: rgb(57, 181, 206);
+    color: rgb(192, 221, 227);
     background: transparent;
     font-family: cursive;
-    font-size: x-large;
+    font-size: xx-large;
     margin-bottom: 1.9rem;
+    text-align: center;
 }
 
 .smain{
@@ -120,7 +124,9 @@ h2{
     padding: 10px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
+    cursor: pointer;
 }
+
 
 
 .withgoogle{
