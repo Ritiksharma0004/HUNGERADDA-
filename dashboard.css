@@ -42,8 +42,8 @@ a {
 
 .header .logo {
     position: relative;
-    left: .4rem;
-    top: 2rem;
+    left: -2rem;
+    top: 1rem;
     width: auto;
     font-size: 5rem;
     text-align: center;
@@ -53,10 +53,9 @@ a {
 }
 
 .header ul {
-    position: fixed;
     display: flex;
-    right: 7vw;
-    top: 4rem;
+     right: 0vw;
+    top: 1rem;
     z-index: 10;
 }
 
