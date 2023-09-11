@@ -4,10 +4,11 @@
     box-sizing: border-box;
 }
 
+
 .about {
     height: 195vh;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 .about #home {
@@ -20,21 +21,21 @@
     position: relative;
     top: 7vh;
     margin: 20px;
-    left: 6vw;
+    left: 186vw;
 }
 
 .about h2 {
     position: relative;
     left: 7vw;
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .about p {
     position: relative;
-    text-align: center;
+    /* text-align: center; */
     width: 968px;
     height: 210px;
-    left: 16%;
+    left: 7vw;
     top: 3vh;
     font-size: 20px;
 }
