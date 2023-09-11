@@ -32,7 +32,7 @@ a {
     height: 110vh;
 }
 
-.header {
+/* .header {
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -72,6 +72,50 @@ a {
 
 .header ul li a:hover {
     color: rgb(125, 195, 195);
+}
+ */
+
+
+
+.header {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    background-color: rgba(128, 128, 128, 0.7);
+}
+
+.header .logo {
+    position: relative;
+    left: -2rem;
+    top: 0rem;
+    width: auto;
+    font-size: 5rem;
+    text-align: center;
+    color: orange;
+    font-weight: 900;
+    font-family: 'Caveat', cursive;
+}
+
+.header ul {
+    position: relative;
+    display: flex;
+    right: 0vw;
+    top: 0rem;
+    z-index: 10;
+}
+
+.header ul li {
+    margin: 15px;
+}
+
+.header ul li a {
+    color: rgb(1, 1, 1);
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Roboto;
+    transition: all 1s;
 }
 
 .header #login {
