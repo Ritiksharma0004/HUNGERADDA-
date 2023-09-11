@@ -4,11 +4,10 @@
     box-sizing: border-box;
 }
 
-
 .about {
     height: 195vh;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .about #home {
