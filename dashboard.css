@@ -388,7 +388,16 @@ button i {
     z-index: 2;
 }
 
-
+.ellipse {
+    position: relative;
+    float: right;
+    top: -45vh;
+    width: 520px;
+    border-left-width: 300px;
+    height: 300px;
+    border-radius: 90% 0% 0% 90%;
+    background: #5F473A;
+}
 
 
 /* -------------------------------------- container3- --------------------------------- */
@@ -471,14 +480,14 @@ button i {
 
 .container4 {
     position: relative;
-    height: 173vh;
+    height: 137vh;
     background-color: white;
 }
 
 .container4 img {
     position: relative;
     float: left;
-    width: 1000px;
+    width: 764px;
     top: 3vh;
 }
 
@@ -516,12 +525,16 @@ button i {
 }
 
 #text h2 {
+    position: relative;
+    left: 4vw;
     font-size: 3.7rem;
     margin-bottom: 30px;
 }
 
 #text p {
     position: relative;
+    text-align: center;
+    left: 5vw;
     width: 450px;
     font-size: 28px;
     font-family: 'Roboto', sans-serif;
