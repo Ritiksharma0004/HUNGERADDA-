@@ -982,6 +982,79 @@ button i {
    }
 
 
+/---------------------- footer----------------------------------*  */
+
+
+
+.foot {
+    position: relative;
+    display: flex;
+    height: 40vh;
+    /* margin-left: 5rem; */
+    /* margin-right: 5rem; */
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    background-color: black;
+    color: white;
+}
+
+
+.comp {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    right: 16vw;
+    gap: 2vh;
+}
+
+.comp a {
+    color: white;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+    /* margin-right: 7rem; */
+}
+
+.fa {
+    margin-bottom: 1vh;
+    color: white;
+}
+
+.fa:hover {
+    color: rgb(84, 122, 155);
+}
+
+.comp div {
+    margin-top: 1vh;
+}
+
+#textarea {
+    margin-top: .5rem;
+    height: 10vh;
+    max-width: 168px;
+    min-width: 168px;
+    max-height: 78px;
+    min-height: 78px;
+}
+
+.contact button {
+    position: relative;
+    margin-top: 2vh;
+    width: 11vw;
+    text-align: center;
+    border: none;
+    background-color: #04AA6D;
+    cursor: pointer;
+}
+
+.contact .content {
+    position:relative;
+    top: 2vh;
+}
 
    /* ------------------------ Responsive----------------------------- */
 
