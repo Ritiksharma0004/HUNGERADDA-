@@ -388,16 +388,7 @@ button i {
     z-index: 2;
 }
 
-.ellipse {
-    position: relative;
-    float: right;
-    top: -45vh;
-    width: 520px;
-    border-left-width: 300px;
-    height: 300px;
-    border-radius: 90% 0% 0% 90%;
-    background: #5F473A;
-}
+
 
 
 /* -------------------------------------- container3- --------------------------------- */
