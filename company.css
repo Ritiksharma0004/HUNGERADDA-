@@ -4,11 +4,13 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: white;
+    color: black;
+}
 
 .about {
     height: 195vh;
-    background-color: black;
-    color: white;
 }
 
 .about #home {
@@ -46,8 +48,8 @@
 .Glimps {
     /* position: relative; */
     margin-top: 8vh;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     height: 100vh;
 }
 
@@ -67,7 +69,7 @@
     column-gap: 10px;
     left: 23vw;
     top: 15vh;
-    background-color: #41994b;
+    /* background-color: #41994b; */
     height: 100vh;
     width: 55%;
 }
@@ -79,7 +81,7 @@
 
 .pic {
     position: relative;
-    background-color: chocolate;
+    background-color: rgba(177, 169, 169, 0.538);
 }
 
 .p2 {
